@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes">
+        <item>I\'m doing a (free) operating system (just a hobby, won\'t be big and professional like gnu) for 386(486) AT clones.</item>
+        <item>Do you pine for the nice days of minix-1.1, when men were men and wrote their own device drivers?</item>
+    </string-array>
+    
+</resources>
